@@ -1,3593 +1,3621 @@
 {
-    "carousel": [
-      {
-        "movie_id": 1,
-        "name": "May December",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/9/5/6/56591-1-esl-CO/994bf94386df-mydr_cineco_pstr-crss_575x805.jpg",
-        "titleSpanish": "Secretos De Un Éscandalo",
-        "premiere": "21 Mar 2024",
-        "Genre": "Comedia, Drama",
-        "Category": "Exclusiva para Mayores de 15 años",
-        "Duration": "88 Min",
-        "Trailer": "8z3JaevxEMA",
-        "Sinopsis": "Veinte años después de el escandaloso y  sensacionalista romance entre Gracie Atherton-Yoo (Julianne Moore) y Joe (Charles Melton) la estabilidad emocional de la compleja pareja se verá bajo presión cuando la famosa actriz Elizabeth Berry (Natalie Portman) se incorpore a la familia para estudiarlos como parte de su preparación para su próxima película inspirada en los oscuros inicios de la relación entre Gracie y Joe."
-      },
-      {
-        "movie_id": 2,
-        "name": "The Beast",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/2/2/6/56221-1-esl-CO/97413a6392ca-1_postercarrusel_575x805.jpg",
-        "titleSpanish": "La Bestia",
-        "premiere": "21 Mar 2024",
-        "Genre": "Ciencia Ficción, Drama",
-        "Category": "Recomendada para Mayores de 12 años",
-        "Duration": "146 Min",
-        "Trailer": "Z5KsjVf8YdU",
-        "Sinopsis": "En un futuro cercano, donde la inteligencia artificial reina, las emociones se han convertido en una amenaza. Para librarse de ellas, Gabrielle decide purificar su ADN en una máquina que la sumergirá en sus vidas pasadas. Allí se reencuentra con Louis, su gran amor, para vivir un romance distópico a través del tiempo: 1910, 2014 y 2044. Una relación atravesada por el miedo a amar, por la sensación de que una catástrofe se avecina y su amor puede terminar de forma trágica en cualquier momento. Nominada, en el 2023, a mejor película en el Festival de Venecia y Festival de Sevilla."
-      },
-      {
-        "movie_id": 3,
-        "name": "Imaginary",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/1/5/5/55518-1-esl-CO/7d318f3a157f-1_postercarrusel_575x805.jpg",
-        "titleSpanish": "Imaginario: Juguete Diabólico",
-        "premiere": "07 Mar 2024",
-        "Genre": "Terror",
-        "Category": "Recomendada para Mayores de 12 años",
-        "Duration": "105 Min",
-        "Trailer": "8XoNfrgrAGM",
-        "Sinopsis": "¿Puede un oso de peluche ser la puerta a un mundo de terror? Este es el lado oscuro de la imaginación. Ocurre cuando Jessica (DeWanda Wise) se muda con su familia de vuelta a su casa de la infancia y su hijastra Alice (Pyper Braun) desarrolla una misteriosa conexión con un oso de peluche llamado Chauncey. Los juegos con este muñeco empezarán siendo alegres, pero luego tomarán un rumbo cada vez más siniestro. Chauncey resulta ser mucho más que el peluche que ella recordaba..."
-      },
-      {
-        "movie_id": 4,
-        "name": "Dune Part Two",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/6/3/2/42368-9-esl-CO/6c9ffae81da4-warner_dune2_cinecol_575x805.jpg",
-        "titleSpanish": "Duna Parte Dos",
-        "premiere": "29 Mar 2024",
-        "Genre": "Acción, Aventura, Drama",
-        "Category": "Recomendada para Mayores de 12 años",
-        "Duration": "166 Min",
-        "Trailer": "Way9Dexny3w",
-        "Sinopsis": "Duna: Parte dos explorará el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en su camino de venganza contra los conspiradores que destruyeron a su familia. Enfrentando la decisión entre el amor de su vida y el destino del universo, Paul se esfuerza por evitar un futuro terrible que sólo él puede prever."
-      },
-      {
-        "movie_id": 5,
-        "name": "Luca",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/6/0/5/6/16506-48-esl-CO/94a62db716f9-575x805.jpg",
-        "titleSpanish": "Luca",
-        "premiere": "21 Mar 2024",
-        "Genre": "Animación, Aventura, Comedia",
-        "Category": "Para todo el Público",
-        "Duration": "99 Min",
-        "Trailer": "kw50vQA1S-o",
-        "Sinopsis": "En un hermoso pueblo en la Riviera italiana, Luca y Alberto disfrutan del verano mientras intentan ocultar su gran secreto: ambos son monstruos marinos que se convierten en humanos cuando están secos."
-      },
-      {
-        "movie_id": 6,
-        "name": "Vermines",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/8/9/6/56981-1-esl-CO/80f192ec3f7b-1_postercarrusel_575x805.jpg",
-        "titleSpanish": "Arácnidos",
-        "premiere": "21 Mar 2024",
-        "Genre": "Terror",
-        "Category": "Recomendada para Mayores de 12 años",
-        "Duration": "105 Min",
-        "Trailer": "7b9fF77M-bo",
-        "Sinopsis": "Kaleb es un joven que vive de pequeños trabajos. Fascinado por los animales exóticos, encuentra una araña venenosa en un bazar y se la lleva a su casa. Pero a su nueva mascota sólo le tomará un momento de descuido para escapar y reproducirse, convirtiendo el lugar en una terrible trampa de telarañas y muertes…"
-      },
-      {
-        "movie_id": 7,
-        "name": "10 lives",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/5/5/7/6/56755-1-esl-CO/f3fc634454f5-1_postercarrusel_575x805.jpg",
-        "titleSpanish": "Un Gata con Suerte",
-        "premiere": "21 Mar 2024",
-        "Genre": "Animación, Familiar, Comedia",
-        "Category": "Para todo el Público",
-        "Duration": "88 Min",
-        "Trailer": "h19nzoazkS4",
-        "Sinopsis": "Beckett es un gato mimado y egoísta que da por sentado la suerte que le ha tocado, después de ser rescatado por Rose, una estudiante apasionada y de buen corazón. Cuando Beckett pierde su novena y última vida, el destino interviene para embarcarlo en un viaje transformador…"
-      },
-      {
-        "movie_id": 8,
-        "name": "Arthur The King",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/4/8/1/6/56184-1-esl-CO/22cbee4966a3-ark_cineco_pstr-crrs_575x805.jpg",
-        "titleSpanish": "Arthur una Amistad sin Límites",
-        "premiere": "21 Mar 2024",
-        "Genre": "Aventura",
-        "Category": "Para todo el Público",
-        "Duration": "106 Min",
-        "Trailer": "BMzCIAI1nyg",
-        "Sinopsis": "Un corredor de aventuras adopta a un perro callejero llamado Arthur para unirse a él en una épica carrera de resistencia."
-      },
-      {
-        "movie_id": 9,
-        "name": "Cabrini",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/0/7/8/6/56870-1-esl-CO/1de96699e237-1_postercarrusel_575x805.jpg",
-        "titleSpanish": "Cabrini",
-        "premiere": "21 Mar 2024",
-        "Genre": "Drama",
-        "Category": "Recomendada para Mayores de 12 años",
-        "Duration": "142 Min",
-        "Trailer": "-aiDFxx6HYI",
-        "Sinopsis": "Después de presenciar enfermedad y la pobreza en los barrios marginales de Nueva York, la inmigrante italiana Francesca Cabrini se embarca en un atrevido viaje para persuadir a las autoridades y proporcionarle vivienda, atención médica y apoyo a cientos de niños huérfanos en América. Esta es la historia de una mujer que cambió para siempre la vida de las comunidades más pobres en Estados Unidos y se convirtió en la primera mujer americana en ser beatificada."
-      },
-      {
-        "movie_id": 10,
-        "name": "Los De La Culpa",
-        "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/5/2/6/56258-1-esl-CO/47ac21797b76-poster-carrusel-575x805.jpg",
-        "titleSpanish": "Los De La Culpa",
-        "premiere": "21 Mar 2024",
-        "Genre": "Comedia",
-        "Category": "Exclusiva para Mayores de 15 años",
-        "Duration": "91 Min",
-        "Trailer": "L_FsDWOwkzI",
-        "Sinopsis": "¡La recua de sinvergüenzas se va a España en busca de trabajo y para desatar el caos! Cuando Tato Devia, Ricardo Quevedo, Tavo Bernate, Iván Marín, Henry Delgado y Santiago Rendón experimentan una pérdida de popularidad en sus shows y se ven sumidos en una crisis artística, toman la decisión de revitalizar sus carreras aceptando una misteriosa invitación a España por parte de un próspero director de cine. Como gesto de bienvenida, éste junto a su esposa, deciden organizar una fiesta extravagante y salvaje para rendirles homenaje. La celebración se sale completamente de control y, al día siguiente, la esposa del anfitrión amanece misteriosamente asesinada. Entre la resaca y la confusión, la única certeza es que ¡nadie recuerda nada! Para complicar las cosas, son acusados de asesinato. Desde la cárcel, se sumergen en narraciones cómicas sobre la fiesta descontrolada y sus experiencias tras las rejas, todo con el fin de probar su inocencia. El dilema radica en que, entre strippers, tragos y rumba, ¡nadie sabe quién es el auténtico culpable! Las risas están aseguradas mientras este peculiar grupo enfrenta preguntas incisivas y se revelan los eventos más absurdos de esa inolvidable noche. ¡Prepárate para un explosivo cóctel de humor, misterio y desenfreno para descubrir si ellos fueron finalmente Los de La Culpa!"
-      }
-    ],
-    "cinemas": {
-      "Titan": {
-        "1 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": "No hay funciones disponibles"
-          }
-        ],
-        "2 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 145
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 155
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 165
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "12:45",
-                "available_seats": 115
-              },
-              "time2": {
-                "time": "14:30",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "16:45",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "12:30",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "14:45",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:00",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:15",
-                "available_seats": 175
-              },
-              "time2": {
-                "time": "15:30",
-                "available_seats": 185
-              },
-              "time3": {
-                "time": "17:45",
-                "available_seats": 195
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 95
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 75
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 105
-              }
-            }
-          }
-        ],
-        "3 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "4 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "16:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:45",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "5 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 150
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 160
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 170
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          }
-        ]
-      },
-      "Unicentro": {
-        "10 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": "No hay funciones disponibles"
-          }
-        ],
-        "2 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 145
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 155
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 165
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "12:45",
-                "available_seats": 115
-              },
-              "time2": {
-                "time": "14:30",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "16:45",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "12:30",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "14:45",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:00",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:15",
-                "available_seats": 175
-              },
-              "time2": {
-                "time": "15:30",
-                "available_seats": 185
-              },
-              "time3": {
-                "time": "17:45",
-                "available_seats": 195
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 95
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 75
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 105
-              }
-            }
-          }
-        ],
-        "3 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "4 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "16:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:45",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "5 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 150
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 160
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 170
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          }
-        ]
-      },
-      "Santa Fe": {
-        "1 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": "No hay funciones disponibles"
-          }
-        ],
-        "2 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 145
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 155
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 165
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "12:45",
-                "available_seats": 115
-              },
-              "time2": {
-                "time": "14:30",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "16:45",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "12:30",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "14:45",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:00",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:15",
-                "available_seats": 175
-              },
-              "time2": {
-                "time": "15:30",
-                "available_seats": 185
-              },
-              "time3": {
-                "time": "17:45",
-                "available_seats": 195
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 95
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 75
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 105
-              }
-            }
-          }
-        ],
-        "3 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "4 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "16:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:45",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "5 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 150
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 160
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 170
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          }
-        ]
-      },
-      "Americas": {
-        "1 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": "No hay funciones disponibles"
-          }
-        ],
-        "2 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:00",
-                "available_seats": 145
-              },
-              "time2": {
-                "time": "15:15",
-                "available_seats": 155
-              },
-              "time3": {
-                "time": "17:30",
-                "available_seats": 165
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "12:45",
-                "available_seats": 115
-              },
-              "time2": {
-                "time": "14:30",
-                "available_seats": 125
-              },
-              "time3": {
-                "time": "16:45",
-                "available_seats": 135
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "12:30",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "14:45",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "17:00",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "13:15",
-                "available_seats": 175
-              },
-              "time2": {
-                "time": "15:30",
-                "available_seats": 185
-              },
-              "time3": {
-                "time": "17:45",
-                "available_seats": 195
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 95
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 105
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 115
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 75
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 85
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 95
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 105
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 105
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 115
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 125
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 85
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 95
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 105
-              }
-            }
-          }
-        ],
-        "3 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 170
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 180
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 190
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "4 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 140
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 150
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 160
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 70
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 80
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 90
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": "No hay funciones disponibles"
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "16:15",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "18:30",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "20:45",
-                "available_seats": 100
-              }
-            }
-          }
-        ],
-        "5 de abril": [
-          {
-            "name": "May December",
-            "movie_id": 1,
-            "schedule": {
-              "time1": {
-                "time": "13:30",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "15:45",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "18:00",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "The Beast",
-            "movie_id": 2,
-            "schedule": {
-              "time1": {
-                "time": "13:45",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "16:00",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "18:15",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Imaginary",
-            "movie_id": 3,
-            "schedule": {
-              "time1": {
-                "time": "14:00",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "16:15",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "18:30",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Dune Part Two",
-            "movie_id": 4,
-            "schedule": {
-              "time1": {
-                "time": "14:15",
-                "available_seats": 150
-              },
-              "time2": {
-                "time": "16:30",
-                "available_seats": 160
-              },
-              "time3": {
-                "time": "18:45",
-                "available_seats": 170
-              }
-            }
-          },
-          {
-            "name": "Luca",
-            "movie_id": 5,
-            "schedule": {
-              "time1": {
-                "time": "14:30",
-                "available_seats": 80
-              },
-              "time2": {
-                "time": "16:45",
-                "available_seats": 90
-              },
-              "time3": {
-                "time": "19:00",
-                "available_seats": 100
-              }
-            }
-          },
-          {
-            "name": "Vermines",
-            "movie_id": 6,
-            "schedule": {
-              "time1": {
-                "time": "14:45",
-                "available_seats": 110
-              },
-              "time2": {
-                "time": "17:00",
-                "available_seats": 120
-              },
-              "time3": {
-                "time": "19:15",
-                "available_seats": 130
-              }
-            }
-          },
-          {
-            "name": "10 lives",
-            "movie_id": 7,
-            "schedule": {
-              "time1": {
-                "time": "15:00",
-                "available_seats": 130
-              },
-              "time2": {
-                "time": "17:15",
-                "available_seats": 140
-              },
-              "time3": {
-                "time": "19:30",
-                "available_seats": 150
-              }
-            }
-          },
-          {
-            "name": "Arthur The King",
-            "movie_id": 8,
-            "schedule": {
-              "time1": {
-                "time": "15:15",
-                "available_seats": 100
-              },
-              "time2": {
-                "time": "17:30",
-                "available_seats": 110
-              },
-              "time3": {
-                "time": "19:45",
-                "available_seats": 120
-              }
-            }
-          },
-          {
-            "name": "Cabrini",
-            "movie_id": 9,
-            "schedule": {
-              "time1": {
-                "time": "15:30",
-                "available_seats": 120
-              },
-              "time2": {
-                "time": "17:45",
-                "available_seats": 130
-              },
-              "time3": {
-                "time": "20:00",
-                "available_seats": 140
-              }
-            }
-          },
-          {
-            "name": "Los De La Culpa",
-            "movie_id": 10,
-            "schedule": {
-              "time1": {
-                "time": "15:45",
-                "available_seats": 90
-              },
-              "time2": {
-                "time": "18:00",
-                "available_seats": 100
-              },
-              "time3": {
-                "time": "20:15",
-                "available_seats": 110
-              }
-            }
-          }
-        ]
-      }
+  "carousel": [
+    {
+      "movie_id": 1,
+      "name": "May December",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/9/5/6/56591-1-esl-CO/994bf94386df-mydr_cineco_pstr-crss_575x805.jpg",
+      "titleSpanish": "Secretos De Un Éscandalo",
+      "premiere": "21 Mar 2024",
+      "Genre": "Comedia, Drama",
+      "Category": "Exclusiva para Mayores de 15 años",
+      "Duration": "88 Min",
+      "Trailer": "8z3JaevxEMA",
+      "Sinopsis": "Veinte años después de el escandaloso y  sensacionalista romance entre Gracie Atherton-Yoo (Julianne Moore) y Joe (Charles Melton) la estabilidad emocional de la compleja pareja se verá bajo presión cuando la famosa actriz Elizabeth Berry (Natalie Portman) se incorpore a la familia para estudiarlos como parte de su preparación para su próxima película inspirada en los oscuros inicios de la relación entre Gracie y Joe.",
+      "id": "0868"
     },
-    "usuario": [
-      {
-        "email": "angelb04@gmail.com",
-        "password": "A123gel",
-        "photo": "https://i.pinimg.com/originals/c7/f9/fe/c7f9fe2e978b08473031c87f6fe657c2.jpg",
-        "name": "Angel"
-      }
-    ],
-    "compras": [
-      {
-        "id": "1cce",
-        "selectedMovie": {
-          "name": "Imaginary"
+    {
+      "movie_id": 2,
+      "name": "The Beast",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/2/2/6/56221-1-esl-CO/97413a6392ca-1_postercarrusel_575x805.jpg",
+      "titleSpanish": "La Bestia",
+      "premiere": "21 Mar 2024",
+      "Genre": "Ciencia Ficción, Drama",
+      "Category": "Recomendada para Mayores de 12 años",
+      "Duration": "146 Min",
+      "Trailer": "Z5KsjVf8YdU",
+      "Sinopsis": "En un futuro cercano, donde la inteligencia artificial reina, las emociones se han convertido en una amenaza. Para librarse de ellas, Gabrielle decide purificar su ADN en una máquina que la sumergirá en sus vidas pasadas. Allí se reencuentra con Louis, su gran amor, para vivir un romance distópico a través del tiempo: 1910, 2014 y 2044. Una relación atravesada por el miedo a amar, por la sensación de que una catástrofe se avecina y su amor puede terminar de forma trágica en cualquier momento. Nominada, en el 2023, a mejor película en el Festival de Venecia y Festival de Sevilla.",
+      "id": "156b"
+    },
+    {
+      "movie_id": 3,
+      "name": "Imaginary",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/1/5/5/55518-1-esl-CO/7d318f3a157f-1_postercarrusel_575x805.jpg",
+      "titleSpanish": "Imaginario: Juguete Diabólico",
+      "premiere": "07 Mar 2024",
+      "Genre": "Terror",
+      "Category": "Recomendada para Mayores de 12 años",
+      "Duration": "105 Min",
+      "Trailer": "8XoNfrgrAGM",
+      "Sinopsis": "¿Puede un oso de peluche ser la puerta a un mundo de terror? Este es el lado oscuro de la imaginación. Ocurre cuando Jessica (DeWanda Wise) se muda con su familia de vuelta a su casa de la infancia y su hijastra Alice (Pyper Braun) desarrolla una misteriosa conexión con un oso de peluche llamado Chauncey. Los juegos con este muñeco empezarán siendo alegres, pero luego tomarán un rumbo cada vez más siniestro. Chauncey resulta ser mucho más que el peluche que ella recordaba...",
+      "id": "ab95"
+    },
+    {
+      "movie_id": 4,
+      "name": "Dune Part Two",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/6/3/2/42368-9-esl-CO/6c9ffae81da4-warner_dune2_cinecol_575x805.jpg",
+      "titleSpanish": "Duna Parte Dos",
+      "premiere": "29 Mar 2024",
+      "Genre": "Acción, Aventura, Drama",
+      "Category": "Recomendada para Mayores de 12 años",
+      "Duration": "166 Min",
+      "Trailer": "Way9Dexny3w",
+      "Sinopsis": "Duna: Parte dos explorará el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en su camino de venganza contra los conspiradores que destruyeron a su familia. Enfrentando la decisión entre el amor de su vida y el destino del universo, Paul se esfuerza por evitar un futuro terrible que sólo él puede prever.",
+      "id": "edd2"
+    },
+    {
+      "movie_id": 5,
+      "name": "Luca",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/6/0/5/6/16506-48-esl-CO/94a62db716f9-575x805.jpg",
+      "titleSpanish": "Luca",
+      "premiere": "21 Mar 2024",
+      "Genre": "Animación, Aventura, Comedia",
+      "Category": "Para todo el Público",
+      "Duration": "99 Min",
+      "Trailer": "kw50vQA1S-o",
+      "Sinopsis": "En un hermoso pueblo en la Riviera italiana, Luca y Alberto disfrutan del verano mientras intentan ocultar su gran secreto: ambos son monstruos marinos que se convierten en humanos cuando están secos.",
+      "id": "2e7a"
+    },
+    {
+      "movie_id": 6,
+      "name": "Vermines",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/1/8/9/6/56981-1-esl-CO/80f192ec3f7b-1_postercarrusel_575x805.jpg",
+      "titleSpanish": "Arácnidos",
+      "premiere": "21 Mar 2024",
+      "Genre": "Terror",
+      "Category": "Recomendada para Mayores de 12 años",
+      "Duration": "105 Min",
+      "Trailer": "7b9fF77M-bo",
+      "Sinopsis": "Kaleb es un joven que vive de pequeños trabajos. Fascinado por los animales exóticos, encuentra una araña venenosa en un bazar y se la lleva a su casa. Pero a su nueva mascota sólo le tomará un momento de descuido para escapar y reproducirse, convirtiendo el lugar en una terrible trampa de telarañas y muertes…",
+      "id": "b7bd"
+    },
+    {
+      "movie_id": 7,
+      "name": "10 lives",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/5/5/7/6/56755-1-esl-CO/f3fc634454f5-1_postercarrusel_575x805.jpg",
+      "titleSpanish": "Un Gata con Suerte",
+      "premiere": "21 Mar 2024",
+      "Genre": "Animación, Familiar, Comedia",
+      "Category": "Para todo el Público",
+      "Duration": "88 Min",
+      "Trailer": "h19nzoazkS4",
+      "Sinopsis": "Beckett es un gato mimado y egoísta que da por sentado la suerte que le ha tocado, después de ser rescatado por Rose, una estudiante apasionada y de buen corazón. Cuando Beckett pierde su novena y última vida, el destino interviene para embarcarlo en un viaje transformador…",
+      "id": "e41f"
+    },
+    {
+      "movie_id": 8,
+      "name": "Arthur The King",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/4/8/1/6/56184-1-esl-CO/22cbee4966a3-ark_cineco_pstr-crrs_575x805.jpg",
+      "titleSpanish": "Arthur una Amistad sin Límites",
+      "premiere": "21 Mar 2024",
+      "Genre": "Aventura",
+      "Category": "Para todo el Público",
+      "Duration": "106 Min",
+      "Trailer": "BMzCIAI1nyg",
+      "Sinopsis": "Un corredor de aventuras adopta a un perro callejero llamado Arthur para unirse a él en una épica carrera de resistencia.",
+      "id": "dd6e"
+    },
+    {
+      "movie_id": 9,
+      "name": "Cabrini",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/0/7/8/6/56870-1-esl-CO/1de96699e237-1_postercarrusel_575x805.jpg",
+      "titleSpanish": "Cabrini",
+      "premiere": "21 Mar 2024",
+      "Genre": "Drama",
+      "Category": "Recomendada para Mayores de 12 años",
+      "Duration": "142 Min",
+      "Trailer": "-aiDFxx6HYI",
+      "Sinopsis": "Después de presenciar enfermedad y la pobreza en los barrios marginales de Nueva York, la inmigrante italiana Francesca Cabrini se embarca en un atrevido viaje para persuadir a las autoridades y proporcionarle vivienda, atención médica y apoyo a cientos de niños huérfanos en América. Esta es la historia de una mujer que cambió para siempre la vida de las comunidades más pobres en Estados Unidos y se convirtió en la primera mujer americana en ser beatificada.",
+      "id": "b284"
+    },
+    {
+      "movie_id": 10,
+      "name": "Los De La Culpa",
+      "img": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_carousel/8/5/2/6/56258-1-esl-CO/47ac21797b76-poster-carrusel-575x805.jpg",
+      "titleSpanish": "Los De La Culpa",
+      "premiere": "21 Mar 2024",
+      "Genre": "Comedia",
+      "Category": "Exclusiva para Mayores de 15 años",
+      "Duration": "91 Min",
+      "Trailer": "L_FsDWOwkzI",
+      "Sinopsis": "¡La recua de sinvergüenzas se va a España en busca de trabajo y para desatar el caos! Cuando Tato Devia, Ricardo Quevedo, Tavo Bernate, Iván Marín, Henry Delgado y Santiago Rendón experimentan una pérdida de popularidad en sus shows y se ven sumidos en una crisis artística, toman la decisión de revitalizar sus carreras aceptando una misteriosa invitación a España por parte de un próspero director de cine. Como gesto de bienvenida, éste junto a su esposa, deciden organizar una fiesta extravagante y salvaje para rendirles homenaje. La celebración se sale completamente de control y, al día siguiente, la esposa del anfitrión amanece misteriosamente asesinada. Entre la resaca y la confusión, la única certeza es que ¡nadie recuerda nada! Para complicar las cosas, son acusados de asesinato. Desde la cárcel, se sumergen en narraciones cómicas sobre la fiesta descontrolada y sus experiencias tras las rejas, todo con el fin de probar su inocencia. El dilema radica en que, entre strippers, tragos y rumba, ¡nadie sabe quién es el auténtico culpable! Las risas están aseguradas mientras este peculiar grupo enfrenta preguntas incisivas y se revelan los eventos más absurdos de esa inolvidable noche. ¡Prepárate para un explosivo cóctel de humor, misterio y desenfreno para descubrir si ellos fueron finalmente Los de La Culpa!",
+      "id": "5313"
+    }
+  ],
+  "cinemas": {
+    "Titan": {
+      "1 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 160
+            }
+          }
         },
-        "selectedCinema": "Unicentro",
-        "selectedDate": "3 de abril",
-        "selectedTime": "14:00",
-        "randomRoomNumber": 5,
-        "totalPrice": 198,
-        "selectedSeats": "D13, D12, D11",
-        "adultTickets": 2,
-        "childTickets": 1,
-        "seniorTickets": 0,
-        "cardNumber": "1231 231",
-        "purchaseCode": 799337480
-      }
-    ]
-  }
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": "No hay funciones disponibles"
+        }
+      ],
+      "2 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 145
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 155
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 165
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "12:45",
+              "available_seats": 115
+            },
+            "time2": {
+              "time": "14:30",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "16:45",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "12:30",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "14:45",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:00",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:15",
+              "available_seats": 175
+            },
+            "time2": {
+              "time": "15:30",
+              "available_seats": 185
+            },
+            "time3": {
+              "time": "17:45",
+              "available_seats": 195
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 95
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 75
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 105
+            }
+          }
+        }
+      ],
+      "3 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "4 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "16:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:45",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "5 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 150
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 160
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 170
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        }
+      ]
+    },
+    "Unicentro": {
+      "10 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": "No hay funciones disponibles"
+        }
+      ],
+      "2 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 145
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 155
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 165
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "12:45",
+              "available_seats": 115
+            },
+            "time2": {
+              "time": "14:30",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "16:45",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "12:30",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "14:45",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:00",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:15",
+              "available_seats": 175
+            },
+            "time2": {
+              "time": "15:30",
+              "available_seats": 185
+            },
+            "time3": {
+              "time": "17:45",
+              "available_seats": 195
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 95
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 75
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 105
+            }
+          }
+        }
+      ],
+      "3 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "4 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "16:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:45",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "5 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 150
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 160
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 170
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        }
+      ]
+    },
+    "Santa Fe": {
+      "1 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": "No hay funciones disponibles"
+        }
+      ],
+      "2 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 145
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 155
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 165
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "12:45",
+              "available_seats": 115
+            },
+            "time2": {
+              "time": "14:30",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "16:45",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "12:30",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "14:45",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:00",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:15",
+              "available_seats": 175
+            },
+            "time2": {
+              "time": "15:30",
+              "available_seats": 185
+            },
+            "time3": {
+              "time": "17:45",
+              "available_seats": 195
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 95
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 75
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 105
+            }
+          }
+        }
+      ],
+      "3 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "4 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "16:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:45",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "5 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 150
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 160
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 170
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        }
+      ]
+    },
+    "Americas": {
+      "1 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": "No hay funciones disponibles"
+        }
+      ],
+      "2 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:00",
+              "available_seats": 145
+            },
+            "time2": {
+              "time": "15:15",
+              "available_seats": 155
+            },
+            "time3": {
+              "time": "17:30",
+              "available_seats": 165
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "12:45",
+              "available_seats": 115
+            },
+            "time2": {
+              "time": "14:30",
+              "available_seats": 125
+            },
+            "time3": {
+              "time": "16:45",
+              "available_seats": 135
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "12:30",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "14:45",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "17:00",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "13:15",
+              "available_seats": 175
+            },
+            "time2": {
+              "time": "15:30",
+              "available_seats": 185
+            },
+            "time3": {
+              "time": "17:45",
+              "available_seats": 195
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 95
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 105
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 115
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 75
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 85
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 95
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 105
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 105
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 115
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 125
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 85
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 95
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 105
+            }
+          }
+        }
+      ],
+      "3 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 170
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 180
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 190
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "4 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 140
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 150
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 160
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 70
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 80
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 90
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": "No hay funciones disponibles"
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "16:15",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "18:30",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "20:45",
+              "available_seats": 100
+            }
+          }
+        }
+      ],
+      "5 de abril": [
+        {
+          "name": "May December",
+          "movie_id": 1,
+          "schedule": {
+            "time1": {
+              "time": "13:30",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "15:45",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "18:00",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "The Beast",
+          "movie_id": 2,
+          "schedule": {
+            "time1": {
+              "time": "13:45",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "16:00",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "18:15",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Imaginary",
+          "movie_id": 3,
+          "schedule": {
+            "time1": {
+              "time": "14:00",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "16:15",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "18:30",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Dune Part Two",
+          "movie_id": 4,
+          "schedule": {
+            "time1": {
+              "time": "14:15",
+              "available_seats": 150
+            },
+            "time2": {
+              "time": "16:30",
+              "available_seats": 160
+            },
+            "time3": {
+              "time": "18:45",
+              "available_seats": 170
+            }
+          }
+        },
+        {
+          "name": "Luca",
+          "movie_id": 5,
+          "schedule": {
+            "time1": {
+              "time": "14:30",
+              "available_seats": 80
+            },
+            "time2": {
+              "time": "16:45",
+              "available_seats": 90
+            },
+            "time3": {
+              "time": "19:00",
+              "available_seats": 100
+            }
+          }
+        },
+        {
+          "name": "Vermines",
+          "movie_id": 6,
+          "schedule": {
+            "time1": {
+              "time": "14:45",
+              "available_seats": 110
+            },
+            "time2": {
+              "time": "17:00",
+              "available_seats": 120
+            },
+            "time3": {
+              "time": "19:15",
+              "available_seats": 130
+            }
+          }
+        },
+        {
+          "name": "10 lives",
+          "movie_id": 7,
+          "schedule": {
+            "time1": {
+              "time": "15:00",
+              "available_seats": 130
+            },
+            "time2": {
+              "time": "17:15",
+              "available_seats": 140
+            },
+            "time3": {
+              "time": "19:30",
+              "available_seats": 150
+            }
+          }
+        },
+        {
+          "name": "Arthur The King",
+          "movie_id": 8,
+          "schedule": {
+            "time1": {
+              "time": "15:15",
+              "available_seats": 100
+            },
+            "time2": {
+              "time": "17:30",
+              "available_seats": 110
+            },
+            "time3": {
+              "time": "19:45",
+              "available_seats": 120
+            }
+          }
+        },
+        {
+          "name": "Cabrini",
+          "movie_id": 9,
+          "schedule": {
+            "time1": {
+              "time": "15:30",
+              "available_seats": 120
+            },
+            "time2": {
+              "time": "17:45",
+              "available_seats": 130
+            },
+            "time3": {
+              "time": "20:00",
+              "available_seats": 140
+            }
+          }
+        },
+        {
+          "name": "Los De La Culpa",
+          "movie_id": 10,
+          "schedule": {
+            "time1": {
+              "time": "15:45",
+              "available_seats": 90
+            },
+            "time2": {
+              "time": "18:00",
+              "available_seats": 100
+            },
+            "time3": {
+              "time": "20:15",
+              "available_seats": 110
+            }
+          }
+        }
+      ]
+    }
+  },
+  "usuario": [
+    {
+      "email": "angelb04@gmail.com",
+      "password": "A123gel",
+      "photo": "https://i.pinimg.com/originals/c7/f9/fe/c7f9fe2e978b08473031c87f6fe657c2.jpg",
+      "name": "Angel",
+      "id": "97b8"
+    }
+  ],
+  "compras": [
+    {
+      "id": "1cce",
+      "selectedMovie": {
+        "name": "Imaginary"
+      },
+      "selectedCinema": "Unicentro",
+      "selectedDate": "3 de abril",
+      "selectedTime": "14:00",
+      "randomRoomNumber": 5,
+      "totalPrice": 198,
+      "selectedSeats": "D13, D12, D11",
+      "adultTickets": 2,
+      "childTickets": 1,
+      "seniorTickets": 0,
+      "cardNumber": "1231 231",
+      "purchaseCode": 799337480
+    },
+    {
+      "id": "3c50",
+      "selectedMovie": {
+        "name": "Dune Part Two"
+      },
+      "selectedCinema": "Santa Fe",
+      "selectedDate": "3 de abril",
+      "selectedTime": "18:45",
+      "randomRoomNumber": 1,
+      "totalPrice": 168,
+      "selectedSeats": "F9, F10, F11",
+      "adultTickets": 0,
+      "childTickets": 1,
+      "seniorTickets": 2,
+      "cardNumber": "1231 231",
+      "purchaseCode": 849902731
+    }
+  ]
+}
